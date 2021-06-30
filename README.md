@@ -11,8 +11,13 @@ Start page
   - The game will end if you fall or rise out side of the screen, or once your HP reaches 0
 - Start Button
 
-Game
 
+Game
+- Avatar STRUCT
+- Block STRUCT:
+  - Smooth
+  - Spiked
+- 
 
 
 
