@@ -5,7 +5,7 @@ The game is targeted towards any who enjoys some lisure game and appreciates som
 
 Into / How to play:
   - Use |<--| the left and right arrows |-->| on your key board to move the avatar.
-    - (The avatar was made in honor of our programming professor Jeffrey Carruthers - Associate Professor (ECE))
+    - (The avatar was made in honor of our programming professor Jeffrey Carruthers - BU Associate Professor (ECE))
   - The screen will continue to scroll up with platforms and your score will rise.
   - Each time your score raises by 1000, you will attend a new class and the screen will scroll up faster. 
   - Once your score reaches 7000, you will win and graduate with a Bachelor’s diploma of Boston University.
