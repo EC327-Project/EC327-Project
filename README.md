@@ -1,5 +1,5 @@
 # Jumping Through BU ENG
-Teame: Zhenglei Jiang, Wenyu Hu, Yuyang Kang
+Team 6: Zhenglei Jiang, Wenyu Hu, Yuyang Kang
 
 The game is targeted towards any who enjoys some lisure game and appreciates some cool cool BU ENG reference. 
 
