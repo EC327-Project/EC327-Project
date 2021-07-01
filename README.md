@@ -22,5 +22,4 @@ Game
 
 End page
 - Game Over
-- Display score
 - Restart or Exit
