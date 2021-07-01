@@ -3,20 +3,18 @@ Outline of the game
 
 Start page
 - Into / How to play:
-  - Use the left and right arrows to move the avatar
-  - The screen will continue to scroll up with opsticals
-  - Remain on the screen to survive
-  - You may stand on the smooth boards, however the boards with spikes will lower your HP
-  - You will regain HP with time
-  - The game will end if you fall or rise out side of the screen, or once your HP reaches 0
-- Start Button
+  - Use ️️ on your key board to move the avatar.
+  - The screen will continue to scroll up with platforms and your score will rise.
+  - Each time your score raises by 1000, you will attend a new class and the screen will scroll up faster. 
+  - Once your score reaches 7000, you will win and graduate with a Bachelor’s diploma of Boston University.
+  - If you fall outside of the screen before your score gets to 7000, the game will end and you will have to restart your undergraduate studies.
+    USE WITH CAUTION
+  - You may use the space bar to jump every time you hit a platform. However your score will be lowered every time you jump.
 
 
 Game
 - Avatar STRUCT
 - Block STRUCT:
-  - Smooth
-  - Spiked
 - 
 
 
