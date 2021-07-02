@@ -271,7 +271,6 @@ int main() {
                     acc = 0.15;
                     scr = 0;
                     level = 1;
-
                 }
             }
         }
